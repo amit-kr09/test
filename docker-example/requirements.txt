@@ -1,1 +1,2 @@
 pynecone-io
+starlette>=0.27.0 # not directly required, pinned by Snyk to avoid a vulnerability
